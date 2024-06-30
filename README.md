@@ -7,7 +7,7 @@ Kernel Stein Discrepancy on Lie Groups: Theory and Applications
 
 ## Usage
 
-We provide code to implement our method. Please run the code line by line. 
+We provide code to implement our method, including synthetic data generation. Please run the code line by line. 
 
 `MKSDE.R` - compute **MINIMUM KERNEL STEIN DISCREPANCY ESTIMATOR (MKSDE)** and **MLE** of parameter $F$ in von-Mises Fisher (vMF) distribution on $SO(N)$
 
