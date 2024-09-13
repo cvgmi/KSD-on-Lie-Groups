@@ -24,7 +24,7 @@ MKSDE and MLE for the parameter $F$ and their respective distances to the ground
 truth $F_0$.
 - **Geodesic Distances (Table I in the paper)** The geodesic distances between the mode of estimated $F$ and the ground truth orientation of the samples in Figure 2.
 - **Goodness-of-Fit Results (Table II in the paper):**
-The test outputs the computed statistic $wKSD^2_n(\hat{\theta})$ and the
+The test outputs the computed statistic $n(wKSD^2_n(\hat{\theta}))$ and the
 $(1-\beta)$-quantile.
 
 
@@ -70,7 +70,7 @@ test** to evaluate the fit of the model distribution to the data.
 
 	- **Details:** This script generates synthetic data using the Cayley
     distribution and computes the goodness-of-fit statistics,
-    including the $wKSD^2_n(\hat{\theta})$ statistic. A bootstrap procedure is used to
+    including the $n(wKSD^2_n(\hat{\theta}))$ statistic. A bootstrap procedure is used to
     obtain the $(1-\beta)$-quantile.
 
 
