@@ -79,11 +79,9 @@ test** to evaluate the fit of the model distribution to the data.
 If you use this codebase, or otherwise found our work valuable, please cite:
 
 ```
-@article{qu2023kernel,
-  title={Kernel Stein Discrepancy on Lie Groups: Theory and Applications},
-  author={Qu, Xiaoda and Fan, Xiran and Vemuri, Baba C},
-  journal={arXiv preprint arXiv:2305.12551},
-  year={2023}
-}
+X. Qu, X. Fan and B. C. Vemuri, "Kernel Stein Discrepancy on Lie Groups: Theory and Applications," in IEEE Transactions on Information Theory,
+vol. 70, no. 12, pp. 8961-8974, Dec. 2024, doi: 10.1109/TIT.2024.3468212. 
+
+
 ```
 
